@@ -1,3 +1,0 @@
-This is a test file created on a Mac.
-This is a modification to test token functionality.
-
